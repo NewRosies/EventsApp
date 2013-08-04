@@ -3,19 +3,19 @@
 one:
   name: MyString
   price: 1
-  capacity: 1
-  description: MyString
+  capacity: MyString
+  description: MyText
   address: MyString
   amount_available: 1
   image: MyString
-  return_date: 2013-08-04 16:26:00
+  return_date: 2013-08-04 16:34:14
 
 two:
   name: MyString
   price: 1
-  capacity: 1
-  description: MyString
+  capacity: MyString
+  description: MyText
   address: MyString
   amount_available: 1
   image: MyString
-  return_date: 2013-08-04 16:26:00
+  return_date: 2013-08-04 16:34:14
