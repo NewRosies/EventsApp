@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  role: MyString
+  salary: 1
+  available: false
+
+two:
+  role: MyString
+  salary: 1
+  available: false
