@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  User_id: 
+  start_date: 2013-08-04 16:03:24
+  return_date: 2013-08-04 16:03:24
+  completed: false
+  amount: 1
+  extra_charge: 1
+
+two:
+  User_id: 
+  start_date: 2013-08-04 16:03:24
+  return_date: 2013-08-04 16:03:24
+  completed: false
+  amount: 1
+  extra_charge: 1
