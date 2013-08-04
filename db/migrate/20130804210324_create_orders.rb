@@ -1,7 +1,7 @@
 class CreateOrders < ActiveRecord::Migration
   def change
     create_table :orders do |t|
-      t.references :User, index: true
+      t.references :user, index: true
       t.timestamp :start_date
       t.timestamp :return_date
       t.boolean :completed
