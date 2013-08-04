@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyText
+  amount_available: 1
+  price: 1
+  image: MyString
+  return_date: 2013-08-04 16:43:31
+  total: 1
+
+two:
+  name: MyString
+  description: MyText
+  amount_available: 1
+  price: 1
+  image: MyString
+  return_date: 2013-08-04 16:43:31
+  total: 1
